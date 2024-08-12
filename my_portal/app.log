@@ -1,0 +1,67 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 719-500-778
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:00:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:00:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:00:37] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:00:40] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:00:45] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\Desktop\\cybersecurity _portal\\my_portal\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\Desktop\\cybersecurity _portal\\my_portal\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 719-500-778
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:01:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:01:33] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:01:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:01:36] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\werkzeug\\sansio\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0\\Lib\\io.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 719-500-778
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:04:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:04:53] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:04:53] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:04:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:04:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:04:55] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:05:01] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:05:06] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:07:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:07:00] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:07:00] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:07:04] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:07:12] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:07:31] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:12:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:12:13] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:12:13] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:12:25] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:12:32] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:13:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:13:52] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:13:52] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:13:57] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:14:13] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:14:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:14:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:14:36] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:14:40] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:14:46] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:16:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:16:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:16:13] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:16:18] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:16:39] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:18:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:18:10] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:18:10] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:18:15] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:18:26] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:23:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:23:43] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:23:43] "GET /static/app.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:23:48] "GET /api/servers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2024 10:24:45] "GET /api/firewalls HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\Desktop\\cybersecurity _portal\\my_portal\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\Desktop\\cybersecurity _portal\\my_portal\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\Desktop\\cybersecurity _portal\\my_portal\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\skshrinaya\\Desktop\\cybersecurity _portal\\my_portal\\app.py', reloading

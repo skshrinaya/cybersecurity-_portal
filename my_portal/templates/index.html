@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Portal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1>Cybersecurity Portal</h1>
+        <nav>
+            <a href="#servers">Servers</a>
+            <a href="#firewalls">Firewalls</a>
+            <a href="#export">Export Data</a>
+        </nav>
+    </header>
+    <main>
+        <section id="servers">
+            <h2>Server Management</h2>
+            <input type="text" id="searchServers" placeholder="Search servers...">
+            <button id="fetchServers">Fetch Servers</button>
+            <div id="serverList"></div>
+        </section>
+        <section id="firewalls">
+            <h2>Firewall Management</h2>
+            <input type="text" id="searchFirewalls" placeholder="Search firewalls...">
+            <button id="fetchFirewalls">Fetch Firewalls</button>
+            <div id="firewallList"></div>
+        </section>
+        <section id="export">
+            <h2>Export Data</h2>
+            <button id="exportServers">Export Servers</button>
+            <button id="exportFirewalls">Export Firewalls</button>
+        </section>
+        <div id="notification"></div>
+    </main>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+
+</html>
